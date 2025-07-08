@@ -13,7 +13,27 @@
 		552143E629C4FEF000EFFCB0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 552143E429C4FEF000EFFCB0 /* Main.storyboard */; };
 		552143E829C4FEF300EFFCB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 552143E729C4FEF300EFFCB0 /* Assets.xcassets */; };
 		552143EB29C4FEF300EFFCB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 552143E929C4FEF300EFFCB0 /* LaunchScreen.storyboard */; };
+		552143F329C4FF2D00EFFCB0 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552143F229C4FF2D00EFFCB0 /* ViewModel.swift */; };
+		552143F529C4FF7700EFFCB0 /* NYCSchoolModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552143F429C4FF7700EFFCB0 /* NYCSchoolModel.swift */; };
+		552143F729C5010600EFFCB0 /* SATScoreModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552143F629C5010600EFFCB0 /* SATScoreModel.swift */; };
+		552143FB29C67E2100EFFCB0 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552143FA29C67E2100EFFCB0 /* TableViewCell.swift */; };
+		552143FD29C68A2B00EFFCB0 /* detailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552143FC29C68A2B00EFFCB0 /* detailViewController.swift */; };
+		552143FF29C68B2E00EFFCB0 /* SATScoresViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552143FE29C68B2E00EFFCB0 /* SATScoresViewModel.swift */; };
+		5521440129C7C99600EFFCB0 /* webViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5521440029C7C99600EFFCB0 /* webViewController.swift */; };
+		5521440C29C7D52D00EFFCB0 /* _0231703_SufiAhmed_NYCShcoolsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5521440B29C7D52D00EFFCB0 /* _0231703_SufiAhmed_NYCShcoolsTests.swift */; };
+		C09AC76D29C8CBD1009F2B83 /* ApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06F666129C8CA7000380A49 /* ApiManager.swift */; };
+		C09AC77029C8CCDB009F2B83 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = C09AC76F29C8CCDB009F2B83 /* Constant.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5521440D29C7D52D00EFFCB0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 552143D329C4FEF000EFFCB0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 552143DA29C4FEF000EFFCB0;
+			remoteInfo = "20231703-SufiAhmed-NYCShcools";
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		552143DB29C4FEF000EFFCB0 /* 20231703-SufiAhmed-NYCShcools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "20231703-SufiAhmed-NYCShcools.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -24,10 +44,28 @@
 		552143E729C4FEF300EFFCB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		552143EA29C4FEF300EFFCB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		552143EC29C4FEF300EFFCB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		552143F229C4FF2D00EFFCB0 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		552143F429C4FF7700EFFCB0 /* NYCSchoolModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NYCSchoolModel.swift; sourceTree = "<group>"; };
+		552143F629C5010600EFFCB0 /* SATScoreModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SATScoreModel.swift; sourceTree = "<group>"; };
+		552143FA29C67E2100EFFCB0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		552143FC29C68A2B00EFFCB0 /* detailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailViewController.swift; sourceTree = "<group>"; };
+		552143FE29C68B2E00EFFCB0 /* SATScoresViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SATScoresViewModel.swift; sourceTree = "<group>"; };
+		5521440029C7C99600EFFCB0 /* webViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = webViewController.swift; sourceTree = "<group>"; };
+		5521440929C7D52D00EFFCB0 /* 20231703-SufiAhmed-NYCShcoolsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "20231703-SufiAhmed-NYCShcoolsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5521440B29C7D52D00EFFCB0 /* _0231703_SufiAhmed_NYCShcoolsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _0231703_SufiAhmed_NYCShcoolsTests.swift; sourceTree = "<group>"; };
+		C06F666129C8CA7000380A49 /* ApiManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiManager.swift; sourceTree = "<group>"; };
+		C09AC76F29C8CCDB009F2B83 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		552143D829C4FEF000EFFCB0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5521440629C7D52D00EFFCB0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				552143DD29C4FEF000EFFCB0 /* 20231703-SufiAhmed-NYCShcools */,
+				5521440A29C7D52D00EFFCB0 /* 20231703-SufiAhmed-NYCShcoolsTests */,
 				552143DC29C4FEF000EFFCB0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				552143DB29C4FEF000EFFCB0 /* 20231703-SufiAhmed-NYCShcools.app */,
+				5521440929C7D52D00EFFCB0 /* 20231703-SufiAhmed-NYCShcoolsTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,15 +96,72 @@
 		552143DD29C4FEF000EFFCB0 /* 20231703-SufiAhmed-NYCShcools */ = {
 			isa = PBXGroup;
 			children = (
+				C09AC76E29C8CCC9009F2B83 /* Common */,
+				C06F666029C8CA6100380A49 /* ApiManager */,
 				552143DE29C4FEF000EFFCB0 /* AppDelegate.swift */,
 				552143E029C4FEF000EFFCB0 /* SceneDelegate.swift */,
-				552143E229C4FEF000EFFCB0 /* ViewController.swift */,
+				5521440229C7CFAA00EFFCB0 /* viewControllers */,
+				552143F829C5012100EFFCB0 /* models */,
+				552143F929C5014500EFFCB0 /* viewModels */,
 				552143E429C4FEF000EFFCB0 /* Main.storyboard */,
 				552143E729C4FEF300EFFCB0 /* Assets.xcassets */,
 				552143E929C4FEF300EFFCB0 /* LaunchScreen.storyboard */,
 				552143EC29C4FEF300EFFCB0 /* Info.plist */,
 			);
 			path = "20231703-SufiAhmed-NYCShcools";
+			sourceTree = "<group>";
+		};
+		552143F829C5012100EFFCB0 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				552143F429C4FF7700EFFCB0 /* NYCSchoolModel.swift */,
+				552143F629C5010600EFFCB0 /* SATScoreModel.swift */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		552143F929C5014500EFFCB0 /* viewModels */ = {
+			isa = PBXGroup;
+			children = (
+				552143F229C4FF2D00EFFCB0 /* ViewModel.swift */,
+				552143FE29C68B2E00EFFCB0 /* SATScoresViewModel.swift */,
+				552143FA29C67E2100EFFCB0 /* TableViewCell.swift */,
+			);
+			path = viewModels;
+			sourceTree = "<group>";
+		};
+		5521440229C7CFAA00EFFCB0 /* viewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				552143E229C4FEF000EFFCB0 /* ViewController.swift */,
+				552143FC29C68A2B00EFFCB0 /* detailViewController.swift */,
+				5521440029C7C99600EFFCB0 /* webViewController.swift */,
+			);
+			path = viewControllers;
+			sourceTree = "<group>";
+		};
+		5521440A29C7D52D00EFFCB0 /* 20231703-SufiAhmed-NYCShcoolsTests */ = {
+			isa = PBXGroup;
+			children = (
+				5521440B29C7D52D00EFFCB0 /* _0231703_SufiAhmed_NYCShcoolsTests.swift */,
+			);
+			path = "20231703-SufiAhmed-NYCShcoolsTests";
+			sourceTree = "<group>";
+		};
+		C06F666029C8CA6100380A49 /* ApiManager */ = {
+			isa = PBXGroup;
+			children = (
+				C06F666129C8CA7000380A49 /* ApiManager.swift */,
+			);
+			path = ApiManager;
+			sourceTree = "<group>";
+		};
+		C09AC76E29C8CCC9009F2B83 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				C09AC76F29C8CCDB009F2B83 /* Constant.swift */,
+			);
+			path = Common;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -87,6 +184,24 @@
 			productReference = 552143DB29C4FEF000EFFCB0 /* 20231703-SufiAhmed-NYCShcools.app */;
 			productType = "com.apple.product-type.application";
 		};
+		5521440829C7D52D00EFFCB0 /* 20231703-SufiAhmed-NYCShcoolsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5521440F29C7D52D00EFFCB0 /* Build configuration list for PBXNativeTarget "20231703-SufiAhmed-NYCShcoolsTests" */;
+			buildPhases = (
+				5521440529C7D52D00EFFCB0 /* Sources */,
+				5521440629C7D52D00EFFCB0 /* Frameworks */,
+				5521440729C7D52D00EFFCB0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5521440E29C7D52D00EFFCB0 /* PBXTargetDependency */,
+			);
+			name = "20231703-SufiAhmed-NYCShcoolsTests";
+			productName = "20231703-SufiAhmed-NYCShcoolsTests";
+			productReference = 5521440929C7D52D00EFFCB0 /* 20231703-SufiAhmed-NYCShcoolsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -99,6 +214,10 @@
 				TargetAttributes = {
 					552143DA29C4FEF000EFFCB0 = {
 						CreatedOnToolsVersion = 13.1;
+					};
+					5521440829C7D52D00EFFCB0 = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = 552143DA29C4FEF000EFFCB0;
 					};
 				};
 			};
@@ -116,6 +235,7 @@
 			projectRoot = "";
 			targets = (
 				552143DA29C4FEF000EFFCB0 /* 20231703-SufiAhmed-NYCShcools */,
+				5521440829C7D52D00EFFCB0 /* 20231703-SufiAhmed-NYCShcoolsTests */,
 			);
 		};
 /* End PBXProject section */
@@ -131,6 +251,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		5521440729C7D52D00EFFCB0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -139,12 +266,37 @@
 			buildActionMask = 2147483647;
 			files = (
 				552143E329C4FEF000EFFCB0 /* ViewController.swift in Sources */,
+				552143F729C5010600EFFCB0 /* SATScoreModel.swift in Sources */,
+				552143FF29C68B2E00EFFCB0 /* SATScoresViewModel.swift in Sources */,
+				552143F529C4FF7700EFFCB0 /* NYCSchoolModel.swift in Sources */,
 				552143DF29C4FEF000EFFCB0 /* AppDelegate.swift in Sources */,
+				5521440129C7C99600EFFCB0 /* webViewController.swift in Sources */,
+				C09AC76D29C8CBD1009F2B83 /* ApiManager.swift in Sources */,
+				552143F329C4FF2D00EFFCB0 /* ViewModel.swift in Sources */,
+				552143FB29C67E2100EFFCB0 /* TableViewCell.swift in Sources */,
 				552143E129C4FEF000EFFCB0 /* SceneDelegate.swift in Sources */,
+				552143FD29C68A2B00EFFCB0 /* detailViewController.swift in Sources */,
+				C09AC77029C8CCDB009F2B83 /* Constant.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5521440529C7D52D00EFFCB0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5521440C29C7D52D00EFFCB0 /* _0231703_SufiAhmed_NYCShcoolsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5521440E29C7D52D00EFFCB0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 552143DA29C4FEF000EFFCB0 /* 20231703-SufiAhmed-NYCShcools */;
+			targetProxy = 5521440D29C7D52D00EFFCB0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		552143E429C4FEF000EFFCB0 /* Main.storyboard */ = {
@@ -336,6 +488,50 @@
 			};
 			name = Release;
 		};
+		5521441029C7D52D00EFFCB0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "sufiApps.-0231703-SufiAhmed-NYCShcoolsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/20231703-SufiAhmed-NYCShcools.app/20231703-SufiAhmed-NYCShcools";
+			};
+			name = Debug;
+		};
+		5521441129C7D52D00EFFCB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "sufiApps.-0231703-SufiAhmed-NYCShcoolsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/20231703-SufiAhmed-NYCShcools.app/20231703-SufiAhmed-NYCShcools";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -353,6 +549,15 @@
 			buildConfigurations = (
 				552143F029C4FEF300EFFCB0 /* Debug */,
 				552143F129C4FEF300EFFCB0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5521440F29C7D52D00EFFCB0 /* Build configuration list for PBXNativeTarget "20231703-SufiAhmed-NYCShcoolsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5521441029C7D52D00EFFCB0 /* Debug */,
+				5521441129C7D52D00EFFCB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96B694A4-2BE8-437A-954A-DF9A564075FC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F35DC0EA-4036-4DAA-84A6-03CEB719969C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F35DC0EA-4036-4DAA-84A6-03CEB719969C - 3989850144c37a36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0231703_SufiAhmed_NYCShcools.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "20231703-SufiAhmed-NYCShcools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shobhakartiwari/Downloads/20231703-SufiAhmed-NYCShcools/20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "F35DC0EA-4036-4DAA-84A6-03CEB719969C - 2f917d193f5f1ea4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;_0231703_SufiAhmed_NYCShcools.NYCSchool&gt;) -&gt; () in _0231703_SufiAhmed_NYCShcools.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "20231703-SufiAhmed-NYCShcools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shobhakartiwari/Downloads/20231703-SufiAhmed-NYCShcools/20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF7F35BC-0DDD-4883-9AE0-090BA5733366"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB2836E2-6AD5-4725-9CB6-A8F226EA455C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB2836E2-6AD5-4725-9CB6-A8F226EA455C - 2f917d193f5f1e83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;_0231703_SufiAhmed_NYCShcools.NYCSchool&gt;) -&gt; () in _0231703_SufiAhmed_NYCShcools.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "20231703-SufiAhmed-NYCShcools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shobhakartiwari/Downloads/20231703-SufiAhmed-NYCShcools/20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "AB2836E2-6AD5-4725-9CB6-A8F226EA455C - bfecab238dad978a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;_0231703_SufiAhmed_NYCShcools.NYCSchool&gt;) -&gt; () in _0231703_SufiAhmed_NYCShcools.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "20231703-SufiAhmed-NYCShcools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shobhakartiwari/Downloads/20231703-SufiAhmed-NYCShcools/20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E0AB5DE-7D45-4E90-A1FE-3BBC33A2FE91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4CFEB7A-65CF-4BF2-96E5-4F38772AC103"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/viewModels/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchNYCSchoolData(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60FFBE5F-5B50-4716-A112-025FADCBAFF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/viewModels/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchNYCSchoolData(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78584147-A5C9-4725-B7D5-8951BAA3F758"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetchNYCSchoolDataFrom(url:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78584147-A5C9-4725-B7D5-8951BAA3F758 - 7197b89ea66dd720"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0231703_SufiAhmed_NYCShcools.ApiManager.fetchNYCSchoolDataFrom(url: Swift.String, completionHandler: (Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "20231703-SufiAhmed-NYCShcools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shobhakartiwari/Downloads/20231703-SufiAhmed-NYCShcools/20231703-SufiAhmed-NYCShcools/ApiManager/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "78584147-A5C9-4725-B7D5-8951BAA3F758 - b100d9a09f88c174"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in _0231703_SufiAhmed_NYCShcools.ApiManager.fetchNYCSchoolDataFrom(url: Swift.String, completionHandler: (Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "20231703-SufiAhmed-NYCShcools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shobhakartiwari/Downloads/20231703-SufiAhmed-NYCShcools/20231703-SufiAhmed-NYCShcools/ApiManager/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B286037-147C-4DFD-B4A6-95289AFA8EF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/viewModels/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fetchNYCSchoolData(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A84192FA-8B6B-46C4-A408-464282B65C83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fetchNYCSchoolDataFrom(url:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F367D7F6-98BA-49CE-9845-74AE32261F41"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchNYCSchoolDataFrom(url:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D42695A-86BE-4E88-854B-1D026DEBD1A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchNYCSchoolDataFrom(url:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E9D4701-B9A8-45E8-952A-A4070F1E3059"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchNYCSchoolDataFrom(url:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5F03D42-A687-49F2-971F-4ADCDE148512"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20231703-SufiAhmed-NYCShcools/viewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
